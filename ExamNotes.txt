@@ -1,0 +1,13 @@
+Exam notes:
+
+Fix spelling: "You should use a library to reads and handles the CSV file rather"
+
+Maybe have it be sent via github? This took me an extra 10 minutes to do including research time on how to do it.
+
+Missing extra one for the Fibonacci sequence
+"0, 1, 2, 3, 5, 8, 13, 21, 34, 55, ..."
+
+I spent 50 minutes to do it all, plus 10 for creating it as a github repo. So, an hour total.
+Knowing how long recursion can take if the loop is too big, maybe it would be best to specify if the student should solve the Fibonacci problem with or without it. (Or maybe ask for both versions.) I personally avoided recursion, instead using dynamic programming concepts to solve it.
+
+Another suggestion would be to ask for one of the programs to accept parameters/user input. 
